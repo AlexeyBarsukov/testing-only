@@ -1,4 +1,6 @@
 # Исторические даты - тестовое задание
+## Скриншоты
+![Главный экран](src/assets/main.png)
 
 ## Демо
 [Посмотреть демо проекта](https://historic-dates-aleksei-barsukov-test.netlify.app/)
@@ -37,6 +39,3 @@ http://localhost:3000
 ## Структура проекта
 - **src/components** — основные компоненты интерфейса
 - **src/pages** — страницы приложения
-
-## Скриншоты
-![Главный экран](src/assets/main.png)

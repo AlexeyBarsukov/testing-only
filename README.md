@@ -1,7 +1,7 @@
 # Исторические даты - тестовое задание
 
 ## Демо
-[Посмотреть демо проекта](https://my-demi-link.com)
+[Посмотреть демо проекта](https://historic-dates-aleksei-barsukov-test.netlify.app/)
 
 
 ### Как запустить проект?
